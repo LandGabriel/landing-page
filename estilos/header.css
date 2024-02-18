@@ -76,3 +76,9 @@ header {
         text-align: center;
     } 
 }
+
+@media screen and (max-width: 600px) {
+
+h1 .tittle{
+    font-size: 12px;
+}}
